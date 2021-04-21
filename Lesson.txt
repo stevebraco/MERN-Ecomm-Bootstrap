@@ -1,0 +1,6 @@
+Nodemon : sert à actualiser le serveur automatiquement
+Body-parser : middleware pour traiter les inputs d'une requête. vérifie le format de l'input
+Mongodb : connecter à la base de données
+Cors : accepter toutes requêtes d'une origine ou domaine différent
+Dotenv : variable d'environement. définir des variables d'environement que l'on souhaite conserver secret
+Express : framework nous permet facilement de créer une infrastructure web à partir de node
